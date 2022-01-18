@@ -1,4 +1,4 @@
-# Arduino-RFID-Otomatik-KAPI
+# Arduino-RFID-Otomatik-KAPI.
 
 
 #include <SPI.h>
